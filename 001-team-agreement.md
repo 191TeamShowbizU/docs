@@ -52,3 +52,4 @@ We agree to volunteer to take on tasks and do them well and on time as best we c
 
 If we don't know how to do something, we will do our best to figure it out. We will ask for help if we get stuck.
 
+If there is a problem with the group or sponsor, we will discuss it openly.
