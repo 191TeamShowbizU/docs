@@ -9,10 +9,11 @@ Damon Wong, Adam Yee, Antonio Montalvo, Ryan Enshaie, Byung Kim
 
 +++To function, the system will have:
 
-+ an appeal to the intended users willing to access and engage in the content
-+ databases to store user information and progress as well as course content
-+ adequate servers to handle the traffic of users
-+ regular maintenance to minimize downtime to maximize reliability
++ a browser that supports HTML and CSS
++ a broadband internet connection
++ a relatively fast computer
++ a mouse and keyboard
+
 
 ## Functional requirements
 
@@ -21,10 +22,7 @@ Damon Wong, Adam Yee, Antonio Montalvo, Ryan Enshaie, Byung Kim
 + allow users to create accounts to access course content and track their progress
 + have a MOOC style learning path to educate the users 
 + provide users with a course page to view different courses by subject
-+ streaming educational videos
-
-+ feature to allow users to communicate and connect with each other
-
++ streaming educational videos and other types of content, along with completing quizzes and assignments
 
 +++account creation
 +must enter valid email and password
