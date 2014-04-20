@@ -19,10 +19,12 @@ Damon Wong, Adam Yee, Antonio Montalvo, Ryan Enshaie, Byung Kim
 
 +++ The product shall:
 
-+ allow users to create accounts to access course content and track their progress
++ allow users to create accounts to access course content 
++ allow users to create accounts to track their progress
 + have a MOOC style learning path to educate the users 
 + provide users with a course page to view different courses by subject
-+ streaming educational videos and other types of content, along with completing quizzes and assignments
++ allow users to stream educational videos and other types of content
++ allow users to complete quizzes and assignments
 
 +++ account creation
 + must enter valid email and password
@@ -39,6 +41,7 @@ Damon Wong, Adam Yee, Antonio Montalvo, Ryan Enshaie, Byung Kim
 + displays message alerting user if email or password are not valid
 + logs user in if email and password are valid
 + user can logout 
+
 +++ student accounts
 + allowed to browse pages appropriate to their type of account
 + watch videos by course
@@ -55,8 +58,14 @@ Damon Wong, Adam Yee, Antonio Montalvo, Ryan Enshaie, Byung Kim
 + alert user that they have passed
 
 +++ student interface
-+ Home, About, Videos, Learning Paths, Join links
-+ My Account, My Courses, Logout links
++ Website contains working Home link
++ Website contains working About link
++ Website contains working Videos link
++ Website contains working Learning Paths link
++ Website contains working Join link
++ Website contains working My Account link
++ Website contains working My Courses link
++ Website contains working Logout link
 + My Courses has links to each course currently being taken
 
 +++ teacher accounts
@@ -77,8 +86,15 @@ Damon Wong, Adam Yee, Antonio Montalvo, Ryan Enshaie, Byung Kim
 + enter correct answer
 
 +++ teacher interface
-+ Home, About, Videos, Learning Paths, Join links
-+ My Account, My Courses, Logout Taught Courses links
++ Website contains working Home link
++ Website contains working About link
++ Website contains working Videos link
++ Website contains working Learning Paths link
++ Website contains working Join link
++ Website contains working My Account link
++ Website contains working My Courses link
++ Website contains working Taught Courses link
++ Website contains working Logout
 + My Courses has links to each course created
 
 +++ admin account
