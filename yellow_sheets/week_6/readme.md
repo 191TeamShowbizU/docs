@@ -1,4 +1,4 @@
-Team ShowbizU
+#Team ShowbizU
 
 STOP: Turning in things to the sponsor and the class the night before. Using the sponsor as an excuse as to why we cannot progress with the project.
 
